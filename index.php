@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>CRM Project using PHP and MySQL</title>
+  <title> SISTEMA DE TICKETS</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +28,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#Aplicaciones-gratuitas-en-PHP,-Python-y-Javascript">ConfiguroWeb</a>
+      <a class="navbar-brand" href="https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#Aplicaciones-gratuitas-en-PHP,-Python-y-Javascript"> REPORTE DE SERVICIO </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -38,11 +38,11 @@
             <a class="nav-link" href="registration.php">Regístrate</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="login.php">Acceder</a>
+            <a class="nav-link" href="login.php">Accede</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="admin/">Acceso Admin</a>
+            <a class="nav-link" href="admin/">Acceso Administrador</a>
           </li>
         </ul>
       </div>
@@ -52,8 +52,8 @@
   <header class="masthead text-center text-white">
     <div class="masthead-content">
       <div class="container">
-        <h1 class="masthead-heading mb-0">Sistema de Generación de Tickets</h1>
-        <h2 class="masthead-subheading mb-0">en PHP y MySQL</h2>
+        <h1 class="masthead-heading mb-0">Tickets</h1>
+        <h2 class="masthead-subheading mb-0">Reporte</h2>
         <a href="registration.php" class="btn btn-primary btn-xl rounded-pill mt-5">Registro de Usuario</a>
       </div>
     </div>
@@ -63,7 +63,10 @@
   <!-- Footer -->
   <footer class="py-5">
     <div class="container">
-      <p class="m-0 text-center text-white small">Sistema de Generación de Tickets</p>
+      <p class="m-0 text-center text-white small"> Instituto Mexiquense De La Infraestructura Fisica Educativa </p>
+      <p class="m-0 text-center text-white small"> Secretaría de Educación </p>
+      <p class="m-0 text-center text-white small"> Boulevard Isidro Fabela Norte No. 900 Col. 3 Caminos, C.P. 50020, Toluca, Estado de México </p>
+      <p class="m-0 text-center text-white small"> Tel: 01(722) 236 05 90 ext. 8502</p>
     </div>
     <!-- /.container -->
   </footer>
