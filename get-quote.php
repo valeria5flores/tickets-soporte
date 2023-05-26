@@ -108,7 +108,7 @@ if (isset($_POST['submit'])) {
 
 
                                                 <div class="form-group">
-                                                    <label class="col-md-3 text-left text-left control-label">Servicio Solicitado :</label>
+                                                    <label class="col-md-3 text-left text-left control-label">Servicio Solicitado:</label>
                                                     <div class="col-md-9">
                                                         <div class="form-group">
                                                             <label class="check">
